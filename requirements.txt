@@ -1,0 +1,6 @@
+tiktoken==0.13.0
+pillow==12.3.0
+matplotlib==3.11.1
+pandas==3.0.5
+jiwer==4.0.0
+editdistance==0.8.1
